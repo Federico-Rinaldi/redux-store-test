@@ -6,7 +6,8 @@ A Simple state management to learn redux store core
 
 ## Webpack build
 clone project and run `npm install` or `yarn add`  
-after, starting project with `npm start` or `yarn start`
+after, starting project with `npm start` or `yarn start`  
+check your browser at `http://localhost:8000`
 
 ## Parcel build
 if you want to build this app with Parcel,  
