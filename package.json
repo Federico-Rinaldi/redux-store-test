@@ -1,0 +1,18 @@
+{
+  "name": "redux-store",
+  "version": "1.0.0",
+  "description": "simple learning redux store",
+  "main": "index.js",
+  "author": "Federico Rinaldi",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
